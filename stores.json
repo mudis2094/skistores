@@ -1,0 +1,14 @@
+{
+	"stores": [
+	  {"code" : "ski123", "name": "The Alpine Shop", "location": "South Burlington" },
+	  { "code": "ski123", "name": "Skirack", "location": "Burlington" },
+	  { "code": "ski123", "name": "Burton Flagship Store", "location": "Burlington" },
+	  { "code": "ski123", "name": "Darkside Snowboards", "location": "Multiple Locations" }, 
+	  { "code": "ski123", "name": "Totem Pole Ski Shop", "location": "Ludlow" },
+	  { "code": "ski123", "name": "Alpine Shop", "location": "Warren" },
+	  { "code": "ski123", "name": "Mountain Travelers Hike and Ski Shop", "location": "Rutland" },
+	  { "code": "ski123", "name": "High Altitude", "location": "West Dover" },
+	  { "code": "ski123", "name": "The Snow Job, Inc", "location": "Jay" },
+	  { "code": "ski123", "name": "Henderson Ski & Snowboard", "location": "Quechee" }		
+	]
+  }  
